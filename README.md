@@ -2,9 +2,9 @@
 
 <hr />
 <p><strong><span style="font-size:14px">1.爬蟲</span></strong><br />
-已完成：動態網頁(Selenium)、蒐集非結構化資料(文字、文本)<br />
+已完成：動態網頁(Selenium)、蒐集非結構化資料(文字、文本)、音訊下載<br />
 預計優化：非同步處理、平行處理<br />
-預計開發：影像、音訊下載</p>
+預計開發：影像</p>
 
 <p><strong><span style="font-size:14px">2.語音轉文字(預計開發)</span></strong><br />
 &nbsp;</p>
