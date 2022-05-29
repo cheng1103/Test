@@ -8,7 +8,7 @@
 預計優化與開發：非同步處理、平行處理、影像下載
 
 > `2.語音轉文字`  
-Demo_Speech_to_text：使用現成的Python模組，將mp3、w4a格式之音訊檔，轉換為wav，並且使用Google進行語音轉文字
+Demo_Speech_to_text：使用現成的Python模組，將mp3、w4a格式之音訊檔，轉換為wav，並且使用Google進行語音轉文字  
 預計優化：語音辨識的前處理
 
 > `3.文字探勘`  
